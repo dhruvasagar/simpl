@@ -9,11 +9,11 @@ import (
 )
 
 func getDBPath() string {
-	boltPath := os.Getenv("BOLT_PATH")
-	if boltPath == "" {
-		boltPath = "pay-later-go.db"
+	dbPath := os.Getenv("DB_PATH")
+	if dbPath == "" {
+		dbPath = "pay-later-go.db"
 	}
-	return boltPath
+	return dbPath
 }
 
 // DB encapsulates database connection instance
