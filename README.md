@@ -10,5 +10,8 @@ $ cd pay-later-go
 $ go build && ./pay-later-go
 ```
 
-I have added pre-created binaries for linux and macos which you may try to
-use in case you don't want to compile.
+I have added pre-created binaries for linux and macos that you can try with if
+you don't want to compile
+
+* linux (pay-later-linux)
+* macos (pay-later-macos)
