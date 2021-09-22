@@ -1,0 +1,58 @@
+#V2
+help
+help new
+new
+help new
+help
+help new
+help
+h
+help
+n
+new
+new merchant
+help
+new
+new merchant
+new user 
+new user
+new user user1
+new user user1 user1@email.in 100
+update user
+new
+new user
+new user user1 user1@email.in 100
+new
+update
+new
+new user user1 user1@email.in 100
+new merchant m1 1.25
+report
+new user user1 user1@email.in 100
+new merchant m1 1.25
+new txn
+new txn user1 m1 100
+report 
+report -h
+report
+report dues user1
+new user user1 user1@email.in 100
+new merchant m1 1.25
+new txn user1 m1 100
+report
+report 
+report --help
+report total-dues
+report users-at-credit-limit
+update user user1 user1@email.in 200
+report users-at-credit-limit
+report total-dues
+report
+report dues
+report dues user1
+new txn user1 m1 100
+report dues user1
+report total-dues
+report users-at-credit-limit
+new txn user1 m1 100
+report users-at-credit-limit
